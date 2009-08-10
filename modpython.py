@@ -1,6 +1,4 @@
 from os.path import dirname, isfile
-
-import sys
 import imp
 
 ENVIRONMENT_VARIABLE = "DJANGO_SETTINGS_MODULE"
